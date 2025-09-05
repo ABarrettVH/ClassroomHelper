@@ -8,7 +8,7 @@ To install dependencies, run:
 $ dotnet restore
 ```
 ## Setting up the database
-First, create a new role in pgAdmin called `whale_spotting` with password `whale_spotting` and the following priveleges:
+First, create a new role in pgAdmin called `classroom` with password `classroom` and the following priveleges:
 - Can login
 - Create databases
 - Inherit rights from the parent roles
